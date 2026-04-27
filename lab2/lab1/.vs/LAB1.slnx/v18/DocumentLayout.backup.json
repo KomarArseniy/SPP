@@ -1,0 +1,795 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\uni6\\CPP\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC1003A-F6D2-C24B-8EFF-80A817BE465D}|..\\Tests\\Tests.csproj|e:\\uni6\\cpp\\tests\\e2e\\rollback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC1003A-F6D2-C24B-8EFF-80A817BE465D}|..\\Tests\\Tests.csproj|e:\\uni6\\cpp\\tests\\e2e\\loyality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC1003A-F6D2-C24B-8EFF-80A817BE465D}|..\\Tests\\Tests.csproj|e:\\uni6\\cpp\\tests\\e2e\\happypath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC1003A-F6D2-C24B-8EFF-80A817BE465D}|..\\Tests\\Tests.csproj|e:\\uni6\\cpp\\tests\\integration\\orderflowtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0963889-A1C4-99CE-823D-A58F948AC9D6}|..\\TestRunner\\TestRunner.csproj|e:\\uni6\\cpp\\testrunner\\consolereporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0963889-A1C4-99CE-823D-A58F948AC9D6}|..\\TestRunner\\TestRunner.csproj|e:\\uni6\\cpp\\testrunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0963889-A1C4-99CE-823D-A58F948AC9D6}|..\\TestRunner\\TestRunner.csproj|e:\\uni6\\cpp\\testrunner\\testrunner.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC1003A-F6D2-C24B-8EFF-80A817BE465D}|..\\Tests\\Tests.csproj|e:\\uni6\\cpp\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC1003A-F6D2-C24B-8EFF-80A817BE465D}|..\\Tests\\Tests.csproj|e:\\uni6\\cpp\\tests\\performance\\paymentperformancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC1003A-F6D2-C24B-8EFF-80A817BE465D}|..\\Tests\\Tests.csproj|e:\\uni6\\cpp\\tests\\performance\\performancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD295A-1403-9EA5-2454-CEE1D3A6DBDC}|..\\SampleApp\\SampleApp.csproj|e:\\uni6\\cpp\\sampleapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD295A-1403-9EA5-2454-CEE1D3A6DBDC}|..\\SampleApp\\SampleApp.csproj|e:\\uni6\\cpp\\sampleapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD295A-1403-9EA5-2454-CEE1D3A6DBDC}|..\\SampleApp\\SampleApp.csproj|e:\\uni6\\cpp\\sampleapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD295A-1403-9EA5-2454-CEE1D3A6DBDC}|..\\SampleApp\\SampleApp.csproj|e:\\uni6\\cpp\\sampleapp\\services\\paymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD295A-1403-9EA5-2454-CEE1D3A6DBDC}|..\\SampleApp\\SampleApp.csproj|e:\\uni6\\cpp\\sampleapp\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD295A-1403-9EA5-2454-CEE1D3A6DBDC}|..\\SampleApp\\SampleApp.csproj|e:\\uni6\\cpp\\sampleapp\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD295A-1403-9EA5-2454-CEE1D3A6DBDC}|..\\SampleApp\\SampleApp.csproj|e:\\uni6\\cpp\\sampleapp\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0963889-A1C4-99CE-823D-A58F948AC9D6}|..\\TestRunner\\TestRunner.csproj|e:\\uni6\\cpp\\testrunner\\testengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0963889-A1C4-99CE-823D-A58F948AC9D6}|..\\TestRunner\\TestRunner.csproj|e:\\uni6\\cpp\\testrunner\\testexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0963889-A1C4-99CE-823D-A58F948AC9D6}|..\\TestRunner\\TestRunner.csproj|e:\\uni6\\cpp\\testrunner\\testloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0963889-A1C4-99CE-823D-A58F948AC9D6}|..\\TestRunner\\TestRunner.csproj|e:\\uni6\\cpp\\testrunner\\csvdataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\attributes\\teste2eattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\attributes\\orderattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\attributes\\lifecycleatribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0963889-A1C4-99CE-823D-A58F948AC9D6}|..\\TestRunner\\TestRunner.csproj|e:\\uni6\\cpp\\testrunner\\testscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0963889-A1C4-99CE-823D-A58F948AC9D6}|..\\TestRunner\\TestRunner.csproj|e:\\uni6\\cpp\\testrunner\\testrunoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\context\\iusesharedcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\attributes\\datasourceattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\attributes\\caseattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\attributes\\classattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\attributes\\categoryattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\attributes\\expectedexeptionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\attributes\\ignoreattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\attributes\\methodattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\attributes\\timeoutattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\asserts\\softassert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\asserts\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC1003A-F6D2-C24B-8EFF-80A817BE465D}|..\\Tests\\Tests.csproj|e:\\uni6\\cpp\\tests\\unit\\inventorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\testframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC1003A-F6D2-C24B-8EFF-80A817BE465D}|..\\Tests\\Tests.csproj|e:\\uni6\\cpp\\tests\\unit\\paymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD295A-1403-9EA5-2454-CEE1D3A6DBDC}|..\\SampleApp\\SampleApp.csproj|e:\\uni6\\cpp\\sampleapp\\exeptions\\orderprocessingexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\exeptions\\testfailedexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC1003A-F6D2-C24B-8EFF-80A817BE465D}|..\\Tests\\Tests.csproj|e:\\uni6\\cpp\\tests\\unit\\demotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD295A-1403-9EA5-2454-CEE1D3A6DBDC}|..\\SampleApp\\SampleApp.csproj|e:\\uni6\\cpp\\sampleapp\\interfaces\\ipaymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD295A-1403-9EA5-2454-CEE1D3A6DBDC}|..\\SampleApp\\SampleApp.csproj|e:\\uni6\\cpp\\sampleapp\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD295A-1403-9EA5-2454-CEE1D3A6DBDC}|..\\SampleApp\\SampleApp.csproj|e:\\uni6\\cpp\\sampleapp\\interfaces\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9782AAE3-82F9-6095-CE4F-E6729A963C40}|..\\TestFramework\\TestFramework.csproj|e:\\uni6\\cpp\\testframework\\fluent\\fluentcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCAD295A-1403-9EA5-2454-CEE1D3A6DBDC}|..\\SampleApp\\SampleApp.csproj|e:\\uni6\\cpp\\sampleapp\\sampleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tests.csproj",
+              "DocumentMoniker": "E:\\uni6\\CPP\\Tests\\Tests.csproj",
+              "RelativeDocumentMoniker": "..\\Tests\\Tests.csproj",
+              "ToolTip": "E:\\uni6\\CPP\\Tests\\Tests.csproj",
+              "RelativeToolTip": "..\\Tests\\Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-10T14:21:29.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestRunner.csproj",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestRunner\\TestRunner.csproj",
+              "RelativeDocumentMoniker": "..\\TestRunner\\TestRunner.csproj",
+              "ToolTip": "E:\\uni6\\CPP\\TestRunner\\TestRunner.csproj",
+              "RelativeToolTip": "..\\TestRunner\\TestRunner.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-10T09:07:59.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestRunner\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TestRunner\\Program.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestRunner\\Program.cs",
+              "RelativeToolTip": "..\\TestRunner\\Program.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAAPgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:08:59.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleReporter.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestRunner\\ConsoleReporter.cs",
+              "RelativeDocumentMoniker": "..\\TestRunner\\ConsoleReporter.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestRunner\\ConsoleReporter.cs",
+              "RelativeToolTip": "..\\TestRunner\\ConsoleReporter.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwv2QAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:29:12.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HappyPath.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\Tests\\E2E\\HappyPath.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\E2E\\HappyPath.cs",
+              "ToolTip": "E:\\uni6\\CPP\\Tests\\E2E\\HappyPath.cs",
+              "RelativeToolTip": "..\\Tests\\E2E\\HappyPath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:35:19.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Loyality.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\Tests\\E2E\\Loyality.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\E2E\\Loyality.cs",
+              "ToolTip": "E:\\uni6\\CPP\\Tests\\E2E\\Loyality.cs",
+              "RelativeToolTip": "..\\Tests\\E2E\\Loyality.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:41:17.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rollback.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\Tests\\E2E\\Rollback.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\E2E\\Rollback.cs",
+              "ToolTip": "E:\\uni6\\CPP\\Tests\\E2E\\Rollback.cs",
+              "RelativeToolTip": "..\\Tests\\E2E\\Rollback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:40:29.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderFlowTests.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\Tests\\Integration\\OrderFlowTests.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\Integration\\OrderFlowTests.cs",
+              "ToolTip": "E:\\uni6\\CPP\\Tests\\Integration\\OrderFlowTests.cs",
+              "RelativeToolTip": "..\\Tests\\Integration\\OrderFlowTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:50:44.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentPerformanceTests.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\Tests\\Performance\\PaymentPerformanceTests.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\Performance\\PaymentPerformanceTests.cs",
+              "ToolTip": "E:\\uni6\\CPP\\Tests\\Performance\\PaymentPerformanceTests.cs",
+              "RelativeToolTip": "..\\Tests\\Performance\\PaymentPerformanceTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:44:06.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PerformanceTests.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\Tests\\Performance\\PerformanceTests.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\Performance\\PerformanceTests.cs",
+              "ToolTip": "E:\\uni6\\CPP\\Tests\\Performance\\PerformanceTests.cs",
+              "RelativeToolTip": "..\\Tests\\Performance\\PerformanceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:43:00.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\SampleApp\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "..\\SampleApp\\Services\\NotificationService.cs",
+              "ToolTip": "E:\\uni6\\CPP\\SampleApp\\Services\\NotificationService.cs",
+              "RelativeToolTip": "..\\SampleApp\\Services\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:27:33.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\SampleApp\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "..\\SampleApp\\Services\\InventoryService.cs",
+              "ToolTip": "E:\\uni6\\CPP\\SampleApp\\Services\\InventoryService.cs",
+              "RelativeToolTip": "..\\SampleApp\\Services\\InventoryService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:27:30.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\SampleApp\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\SampleApp\\Services\\OrderService.cs",
+              "ToolTip": "E:\\uni6\\CPP\\SampleApp\\Services\\OrderService.cs",
+              "RelativeToolTip": "..\\SampleApp\\Services\\OrderService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:27:34.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentGateway.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\SampleApp\\Services\\PaymentGateway.cs",
+              "RelativeDocumentMoniker": "..\\SampleApp\\Services\\PaymentGateway.cs",
+              "ToolTip": "E:\\uni6\\CPP\\SampleApp\\Services\\PaymentGateway.cs",
+              "RelativeToolTip": "..\\SampleApp\\Services\\PaymentGateway.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:28:00.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\SampleApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "..\\SampleApp\\Models\\Order.cs",
+              "ToolTip": "E:\\uni6\\CPP\\SampleApp\\Models\\Order.cs",
+              "RelativeToolTip": "..\\SampleApp\\Models\\Order.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:27:24.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\SampleApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\SampleApp\\Models\\Product.cs",
+              "ToolTip": "E:\\uni6\\CPP\\SampleApp\\Models\\Product.cs",
+              "RelativeToolTip": "..\\SampleApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:27:26.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\SampleApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\SampleApp\\Models\\User.cs",
+              "ToolTip": "E:\\uni6\\CPP\\SampleApp\\Models\\User.cs",
+              "RelativeToolTip": "..\\SampleApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:27:29.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestEngine.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestRunner\\TestEngine.cs",
+              "RelativeDocumentMoniker": "..\\TestRunner\\TestEngine.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestRunner\\TestEngine.cs",
+              "RelativeToolTip": "..\\TestRunner\\TestEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:08:58.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TestExecutor.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestRunner\\TestExecutor.cs",
+              "RelativeDocumentMoniker": "..\\TestRunner\\TestExecutor.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestRunner\\TestExecutor.cs",
+              "RelativeToolTip": "..\\TestRunner\\TestExecutor.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:30:33.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TestLoader.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestRunner\\TestLoader.cs",
+              "RelativeDocumentMoniker": "..\\TestRunner\\TestLoader.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestRunner\\TestLoader.cs",
+              "RelativeToolTip": "..\\TestRunner\\TestLoader.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:30:12.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CsvDataProvider.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestRunner\\CsvDataProvider.cs",
+              "RelativeDocumentMoniker": "..\\TestRunner\\CsvDataProvider.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestRunner\\CsvDataProvider.cs",
+              "RelativeToolTip": "..\\TestRunner\\CsvDataProvider.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:29:48.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TestE2EAttribute.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Attributes\\TestE2EAttribute.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Attributes\\TestE2EAttribute.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Attributes\\TestE2EAttribute.cs",
+              "RelativeToolTip": "..\\TestFramework\\Attributes\\TestE2EAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:15:33.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderAttribute.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Attributes\\OrderAttribute.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Attributes\\OrderAttribute.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Attributes\\OrderAttribute.cs",
+              "RelativeToolTip": "..\\TestFramework\\Attributes\\OrderAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:24:28.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TestScheduler.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestRunner\\TestScheduler.cs",
+              "RelativeDocumentMoniker": "..\\TestRunner\\TestScheduler.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestRunner\\TestScheduler.cs",
+              "RelativeToolTip": "..\\TestRunner\\TestScheduler.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:16:35.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LifecycleAtribute.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Attributes\\LifecycleAtribute.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Attributes\\LifecycleAtribute.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Attributes\\LifecycleAtribute.cs",
+              "RelativeToolTip": "..\\TestFramework\\Attributes\\LifecycleAtribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:24:44.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Context.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Context\\Context.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Context\\Context.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Context\\Context.cs",
+              "RelativeToolTip": "..\\TestFramework\\Context\\Context.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:24:48.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TestRunOptions.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestRunner\\TestRunOptions.cs",
+              "RelativeDocumentMoniker": "..\\TestRunner\\TestRunOptions.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestRunner\\TestRunOptions.cs",
+              "RelativeToolTip": "..\\TestRunner\\TestRunOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:08:56.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUseSharedContext.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Context\\IUseSharedContext.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Context\\IUseSharedContext.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Context\\IUseSharedContext.cs",
+              "RelativeToolTip": "..\\TestFramework\\Context\\IUseSharedContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:24:51.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DatasourceAttribute.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Attributes\\DatasourceAttribute.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Attributes\\DatasourceAttribute.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Attributes\\DatasourceAttribute.cs",
+              "RelativeToolTip": "..\\TestFramework\\Attributes\\DatasourceAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:24:40.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CaseAttribute.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Attributes\\CaseAttribute.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Attributes\\CaseAttribute.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Attributes\\CaseAttribute.cs",
+              "RelativeToolTip": "..\\TestFramework\\Attributes\\CaseAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:24:30.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClassAttribute.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Attributes\\ClassAttribute.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Attributes\\ClassAttribute.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Attributes\\ClassAttribute.cs",
+              "RelativeToolTip": "..\\TestFramework\\Attributes\\ClassAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:24:39.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryAttribute.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Attributes\\CategoryAttribute.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Attributes\\CategoryAttribute.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Attributes\\CategoryAttribute.cs",
+              "RelativeToolTip": "..\\TestFramework\\Attributes\\CategoryAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:24:31.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ExpectedExeptionAttribute.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Attributes\\ExpectedExeptionAttribute.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Attributes\\ExpectedExeptionAttribute.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Attributes\\ExpectedExeptionAttribute.cs",
+              "RelativeToolTip": "..\\TestFramework\\Attributes\\ExpectedExeptionAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:24:41.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IgnoreAttribute.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Attributes\\IgnoreAttribute.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Attributes\\IgnoreAttribute.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Attributes\\IgnoreAttribute.cs",
+              "RelativeToolTip": "..\\TestFramework\\Attributes\\IgnoreAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:24:43.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MethodAttribute.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Attributes\\MethodAttribute.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Attributes\\MethodAttribute.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Attributes\\MethodAttribute.cs",
+              "RelativeToolTip": "..\\TestFramework\\Attributes\\MethodAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:24:45.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TimeoutAttribute.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Attributes\\TimeoutAttribute.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Attributes\\TimeoutAttribute.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Attributes\\TimeoutAttribute.cs",
+              "RelativeToolTip": "..\\TestFramework\\Attributes\\TimeoutAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:24:46.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SoftAssert.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Asserts\\SoftAssert.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Asserts\\SoftAssert.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Asserts\\SoftAssert.cs",
+              "RelativeToolTip": "..\\TestFramework\\Asserts\\SoftAssert.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:24:26.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Assert.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Asserts\\Assert.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Asserts\\Assert.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Asserts\\Assert.cs",
+              "RelativeToolTip": "..\\TestFramework\\Asserts\\Assert.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAwI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:24:21.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TestFramework.csproj",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\TestFramework.csproj",
+              "RelativeDocumentMoniker": "..\\TestFramework\\TestFramework.csproj",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\TestFramework.csproj",
+              "RelativeToolTip": "..\\TestFramework\\TestFramework.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-10T14:13:09.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InventoryTests.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\Tests\\Unit\\InventoryTests.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\Unit\\InventoryTests.cs",
+              "ToolTip": "E:\\uni6\\CPP\\Tests\\Unit\\InventoryTests.cs",
+              "RelativeToolTip": "..\\Tests\\Unit\\InventoryTests.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:55:33.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "OrderProcessingExeption.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\SampleApp\\Exeptions\\OrderProcessingExeption.cs",
+              "RelativeDocumentMoniker": "..\\SampleApp\\Exeptions\\OrderProcessingExeption.cs",
+              "ToolTip": "E:\\uni6\\CPP\\SampleApp\\Exeptions\\OrderProcessingExeption.cs",
+              "RelativeToolTip": "..\\SampleApp\\Exeptions\\OrderProcessingExeption.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvx4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:27:18.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PaymentTests.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\Tests\\Unit\\PaymentTests.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\Unit\\PaymentTests.cs",
+              "ToolTip": "E:\\uni6\\CPP\\Tests\\Unit\\PaymentTests.cs",
+              "RelativeToolTip": "..\\Tests\\Unit\\PaymentTests.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAqwEoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:21:32.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TestFailedExeption.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Exeptions\\TestFailedExeption.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Exeptions\\TestFailedExeption.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Exeptions\\TestFailedExeption.cs",
+              "RelativeToolTip": "..\\TestFramework\\Exeptions\\TestFailedExeption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:24:55.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Demotests.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\Tests\\Unit\\Demotests.cs",
+              "RelativeDocumentMoniker": "..\\Tests\\Unit\\Demotests.cs",
+              "ToolTip": "E:\\uni6\\CPP\\Tests\\Unit\\Demotests.cs",
+              "RelativeToolTip": "..\\Tests\\Unit\\Demotests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:34:20.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IPaymentGateway.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\SampleApp\\Interfaces\\IPaymentGateway.cs",
+              "RelativeDocumentMoniker": "..\\SampleApp\\Interfaces\\IPaymentGateway.cs",
+              "ToolTip": "E:\\uni6\\CPP\\SampleApp\\Interfaces\\IPaymentGateway.cs",
+              "RelativeToolTip": "..\\SampleApp\\Interfaces\\IPaymentGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:27:23.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\SampleApp\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "..\\SampleApp\\Interfaces\\INotificationService.cs",
+              "ToolTip": "E:\\uni6\\CPP\\SampleApp\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "..\\SampleApp\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:27:21.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IInventoryService.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\SampleApp\\Interfaces\\IInventoryService.cs",
+              "RelativeDocumentMoniker": "..\\SampleApp\\Interfaces\\IInventoryService.cs",
+              "ToolTip": "E:\\uni6\\CPP\\SampleApp\\Interfaces\\IInventoryService.cs",
+              "RelativeToolTip": "..\\SampleApp\\Interfaces\\IInventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:27:21.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FluentCheck.cs",
+              "DocumentMoniker": "E:\\uni6\\CPP\\TestFramework\\Fluent\\FluentCheck.cs",
+              "RelativeDocumentMoniker": "..\\TestFramework\\Fluent\\FluentCheck.cs",
+              "ToolTip": "E:\\uni6\\CPP\\TestFramework\\Fluent\\FluentCheck.cs",
+              "RelativeToolTip": "..\\TestFramework\\Fluent\\FluentCheck.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T09:24:58.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SampleApp.csproj",
+              "DocumentMoniker": "E:\\uni6\\CPP\\SampleApp\\SampleApp.csproj",
+              "RelativeDocumentMoniker": "..\\SampleApp\\SampleApp.csproj",
+              "ToolTip": "E:\\uni6\\CPP\\SampleApp\\SampleApp.csproj",
+              "RelativeToolTip": "..\\SampleApp\\SampleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-10T09:08:01.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
