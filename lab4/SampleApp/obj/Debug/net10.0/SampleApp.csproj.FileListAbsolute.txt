@@ -1,0 +1,11 @@
+E:\uni6\CPP\SampleApp\bin\Debug\net10.0\SampleApp.deps.json
+E:\uni6\CPP\SampleApp\bin\Debug\net10.0\SampleApp.dll
+E:\uni6\CPP\SampleApp\bin\Debug\net10.0\SampleApp.pdb
+E:\uni6\CPP\SampleApp\obj\Debug\net10.0\SampleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\uni6\CPP\SampleApp\obj\Debug\net10.0\SampleApp.AssemblyInfoInputs.cache
+E:\uni6\CPP\SampleApp\obj\Debug\net10.0\SampleApp.AssemblyInfo.cs
+E:\uni6\CPP\SampleApp\obj\Debug\net10.0\SampleApp.csproj.CoreCompileInputs.cache
+E:\uni6\CPP\SampleApp\obj\Debug\net10.0\SampleApp.dll
+E:\uni6\CPP\SampleApp\obj\Debug\net10.0\refint\SampleApp.dll
+E:\uni6\CPP\SampleApp\obj\Debug\net10.0\SampleApp.pdb
+E:\uni6\CPP\SampleApp\obj\Debug\net10.0\ref\SampleApp.dll

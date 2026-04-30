@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../SampleApp/SampleApp.csproj" />
+  <Project Path="../TestFramework/TestFramework.csproj" />
+  <Project Path="../TestRunner/TestRunner.csproj" />
+  <Project Path="../Tests/Tests.csproj" />
+  <Project Path="TestThreadPool/TestThreadPool.csproj" Id="e345f4c0-08d5-4b4b-8b4c-217833b23cc1" />
+</Solution>

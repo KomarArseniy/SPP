@@ -1,0 +1,11 @@
+E:\uni6\CPP\LAB1\TestThreadPool\bin\Debug\net10.0\TestThreadPool.deps.json
+E:\uni6\CPP\LAB1\TestThreadPool\bin\Debug\net10.0\TestThreadPool.dll
+E:\uni6\CPP\LAB1\TestThreadPool\bin\Debug\net10.0\TestThreadPool.pdb
+E:\uni6\CPP\LAB1\TestThreadPool\obj\Debug\net10.0\TestThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+E:\uni6\CPP\LAB1\TestThreadPool\obj\Debug\net10.0\TestThreadPool.AssemblyInfoInputs.cache
+E:\uni6\CPP\LAB1\TestThreadPool\obj\Debug\net10.0\TestThreadPool.AssemblyInfo.cs
+E:\uni6\CPP\LAB1\TestThreadPool\obj\Debug\net10.0\TestThreadPool.csproj.CoreCompileInputs.cache
+E:\uni6\CPP\LAB1\TestThreadPool\obj\Debug\net10.0\TestThreadPool.dll
+E:\uni6\CPP\LAB1\TestThreadPool\obj\Debug\net10.0\refint\TestThreadPool.dll
+E:\uni6\CPP\LAB1\TestThreadPool\obj\Debug\net10.0\TestThreadPool.pdb
+E:\uni6\CPP\LAB1\TestThreadPool\obj\Debug\net10.0\ref\TestThreadPool.dll
